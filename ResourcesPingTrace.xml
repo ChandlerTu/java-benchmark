@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<Resources version="1.0">
+    <ResourcesPing ResultCode="0" PingPacketSize="44" PingSuccessNum="20" AvgOffsetTime="39" Ttl="52" MaxOffsetTime="39" MinOffsetTime="39" OffsetTimeJitter="0" RealPingNum="20" PingServer="112.25.24.134" PingStartTime="2017-09-14 13:22:30.624" PingEndTime="2017-09-14 13:22:34.327" />
+    <ResourcesTrace ResultCode="0" TraceStartTime="" TraceEndTime="" IP="112.25.24.134" />
+</Resources>
